@@ -1,0 +1,11 @@
+body{
+    background: #f3efef;
+
+}
+.comment{
+    text-align: center;
+    padding: 10px;
+    border: 1px solid grey;
+    margin-bottom: 2px;
+    background: white;
+}
